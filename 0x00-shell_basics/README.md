@@ -1,2 +1,3 @@
- script  prints the absolute path name of the current working directory
+#!/bin/bash
+script  prints the absolute path name of the current working directory
 
